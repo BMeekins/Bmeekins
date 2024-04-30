@@ -1,4 +1,4 @@
-<h1>Hi, I'm Josh! <br/><a href="https://www.linkedin.com/in/brian-meekins/">Junior Cybersecurity Professional</a></h1>
+<h1>Hi, My name is Brian! <br/><a href="https://www.linkedin.com/in/brian-meekins/">Junior Cybersecurity Professional</a></h1>
 
 <h2>👨‍💻 CyberSecurity Projects I've been working on:</h2>
 
