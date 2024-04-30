@@ -22,5 +22,5 @@
 
 
 
-[linkedin]: <a href="https://www.linkedin.com/in/brian-meekins/" target="_blank">
+[linkedin]: https://www.linkedin.com/in/brian-meekins
 
