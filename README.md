@@ -2,19 +2,15 @@
 
 <h2>👨‍💻 CyberSecurity Projects I've been working on:</h2>
 
-- <b>Installtion and Configuration of Wazzuh SIEM</b>
-  - [Install and Config of Wazzuh SIEM on Linux and Window](https://github.com/BMeekins/WazzuhLab)
 - <b>Installation of Security Onion on Home Network</b>
   - [Security Onion Install](https://github.com/BMeekins/WazzuhLab)
 
 
-<h2>📺 Popular YouTube Videos</h2>
+<h2>📺 Favorite YouTube Videos</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [SIEM Tutorial for Beginners | Azure Sentinel Tutorial MAP with LIVE CYBER ATTACKS!](https://youtu.be/RoZeVbbZ0o0?si=ugCq0WAiZvWWrSIz)
 - [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+
 
 <h2> 🤳 Connect with me:</h2>
 
