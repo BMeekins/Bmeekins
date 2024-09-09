@@ -15,7 +15,7 @@
 <h2> 🤳 Connect with me:</h2>
 
 <div id="badges">
-  <a href="www.linkedin.com/in/brian-meekins">
+  <a href="http://www.linkedin.com/in/brian-meekins">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
