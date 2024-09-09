@@ -12,6 +12,13 @@
 - [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
 
 
+<h2>Certification I have:</h2>
+
+
+<h2> :computer: Blog:</h2>
+
+<a href="http://meekins.org" target="_blank">Chaotic Security Blog</a>
+
 <h2> 🤳 Connect with me:</h2>
 
 <div id="badges">
@@ -20,10 +27,3 @@
   </a>
 
 </div>
-
-<h2>Certification I have:</h2>
-
-
-<h2> :computer: Blog:</h2>
-
-<a href="http://meekins.org" target="_blank">Chaotic Security Blog</a>
