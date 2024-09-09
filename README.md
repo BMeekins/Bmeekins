@@ -12,7 +12,13 @@
 - [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
 
 
-<h2>Certification I have:</h2>
+<h2> :page_with_curl: Current Certifications:</h2>
+
+- CompTia A+
+- CompTia Network+
+- CompTia Security+
+- CompTia CYSA+ (CyberSecurity Systems Analyst Plus)
+  
 
 
 <h2> :computer: Blog:</h2>
