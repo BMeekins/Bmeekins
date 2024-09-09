@@ -22,7 +22,6 @@
 </div>
 
 :computer:
-:tv:
-
+<h2> :tv: Stuff to watch </h2>
 
 <h2> Blog:</h2>
