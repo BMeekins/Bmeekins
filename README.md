@@ -1,12 +1,12 @@
 <h1>Hi, My name is Brian! <br/><a href="https://www.linkedin.com/in/brian-meekins/" target="_blank">Junior Cybersecurity Professional</a></h1>
 
-<h2>👨‍💻 CyberSecurity Projects I've been working on:</h2>
+<h2>:floppy_disk: CyberSecurity Projects I've been working on:</h2>
 
 - <b>Installation of Security Onion on Home Network</b>
   - [Security Onion Install](https://github.com/BMeekins/WazzuhLab)
 
 
-<h2>📺 Favorite YouTube Videos</h2>
+<h2>:tv: Favorite YouTube Videos</h2>
 
 - [SIEM Tutorial for Beginners | Azure Sentinel Tutorial MAP with LIVE CYBER ATTACKS!](https://youtu.be/RoZeVbbZ0o0?si=ugCq0WAiZvWWrSIz)
 - [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
@@ -21,7 +21,9 @@
 
 </div>
 
-:computer:
-<h2> :tv: Stuff to watch </h2>
+<h2>Certification I have:</h2>
 
-<h2> Blog:</h2>
+
+<h2> :computer: Blog:</h2>
+
+<a href="http://meekins.org" target="_blank">Chaotic Security Blog</a>
