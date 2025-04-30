@@ -1,4 +1,4 @@
-<h1>Hi, My name is Brian! <br/><a href="https://www.linkedin.com/in/brian-meekins/" target="_blank">Junior Cybersecurity Professional</a></h1>
+<h1>Hi, My name is Brian! <br/><a href="https://www.linkedin.com/in/bmeekins/" target="_blank">Junior Cybersecurity Professional</a></h1>
 
 <h2>:floppy_disk: CyberSecurity Projects I've been working on:</h2>
 
